@@ -2,6 +2,18 @@ Starting git repository
 
 1) go to directory
 2) type $ git init
-3) add git ignore
-4) type $ git add *
+3) create text file named: .gitignore
+4) put first line in this file : *./o
+5) type git $ git add .gitignore
+6) type $ git add *
+7) type git commit -m "initial commit"
 
+Adding repo to github
+
+1) create new repo with name : repoName
+2) git remote add origin https://github.com:username/repoName
+3) git push -u origin master
+
+Tips:
+ username = lrasmijn
+ password = Spectrum_550 
