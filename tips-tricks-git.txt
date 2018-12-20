@@ -1,0 +1,7 @@
+Starting git repository
+
+1) go to directory
+2) type $ git init
+3) add git ignore
+4) type $ git add *
+
