@@ -17,3 +17,7 @@ Adding repo to github
 Tips:
  username = lrasmijn
  password = Spectrum_550 
+
+Clonign repo from github
+
+1) type $ git clone https://github.com/lrasmijn/udemy-design udemy-design
