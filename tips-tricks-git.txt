@@ -11,7 +11,7 @@ Starting git repository
 Adding repo to github
 
 1) create new repo with name : repoName
-2) git remote add origin https://github.com:username/repoName
+2) git remote add origin https://github.com/username/repoName
 3) git push -u origin master
 
 Tips:
